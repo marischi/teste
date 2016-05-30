@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DivasDominio", "DivasDominio\DivasDominio.csproj", "{80F6FCFB-5E13-4E7F-A8E2-BF9DF9B14919}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DivasWeb", "DivasWeb\DivasWeb.csproj", "{D7FC5044-F85F-4876-A05B-55089C853E19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DivasTest", "DivasTest\DivasTest.csproj", "{9B6C4B5A-C39C-4A80-BAD7-EE7CECA45ADB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80F6FCFB-5E13-4E7F-A8E2-BF9DF9B14919}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80F6FCFB-5E13-4E7F-A8E2-BF9DF9B14919}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80F6FCFB-5E13-4E7F-A8E2-BF9DF9B14919}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80F6FCFB-5E13-4E7F-A8E2-BF9DF9B14919}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7FC5044-F85F-4876-A05B-55089C853E19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7FC5044-F85F-4876-A05B-55089C853E19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7FC5044-F85F-4876-A05B-55089C853E19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7FC5044-F85F-4876-A05B-55089C853E19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B6C4B5A-C39C-4A80-BAD7-EE7CECA45ADB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B6C4B5A-C39C-4A80-BAD7-EE7CECA45ADB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B6C4B5A-C39C-4A80-BAD7-EE7CECA45ADB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B6C4B5A-C39C-4A80-BAD7-EE7CECA45ADB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
